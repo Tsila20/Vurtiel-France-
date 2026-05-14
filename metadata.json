@@ -1,0 +1,6 @@
+{
+  "name": "Pro Virtual Predictor",
+  "description": "Calculateur de probabilités pour Virtual Football (Bet261) utilisant la distribution de Poisson, l'analyse H2H et la détection de Value Bets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

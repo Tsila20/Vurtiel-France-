@@ -1,0 +1,21 @@
+{
+  "name": "PRO-PREDICTOR V3",
+  "short_name": "PRO-PRED",
+  "description": "Professional Virtual Football Predictor for Bet261",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/532/532104.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/532/532104.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
